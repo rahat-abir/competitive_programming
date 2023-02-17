@@ -4,7 +4,7 @@ using namespace std;
 #define ll long long
 #define pb push_back
 #define nl cout<<"\n";
-string str=" ";
+string spc=" ";
 
 
 
